@@ -2,7 +2,7 @@
 <h3 align="left">An ambitious full stack developer from BULGARIA</h3>
 <ul>
   
-  <li>15 years YOUNG 👦</li>
+  <li>16 years YOUNG 👦</li>
   <li>Currently studying in the german high school in sofia 🧑‍🏫</li>
   <li>Went to SoftUni Machine Learning course 🤖 💻</li>
   <li>Went to Teleric Academy 💻</li>
